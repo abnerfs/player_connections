@@ -11,5 +11,5 @@ Yet another connection announcements plugin, I use this plugin since forever but
 - Shows SteamID
 - Shows IP (disabled by default)
 - Shows country
-- Translation file so you don't need to recompile de plugin
+- Translation file so you don't need to recompile the plugin to change stuff
 - CSS/CS:GO support
