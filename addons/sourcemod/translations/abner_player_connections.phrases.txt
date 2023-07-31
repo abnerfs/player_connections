@@ -1,0 +1,49 @@
+"Phrases"
+{
+    "prefix"
+    {
+        "en" "{green}[Player Connections]{default} "
+        "pt" "{green}[Conexão de Jogadores]{default} "
+    }
+
+    "join_name" 
+    {
+        "#format" "{1:N}"
+        "en" "Name: {green}{1}"
+        "pt" "Nome: {green}{1}"
+    }
+
+    "join_steam" 
+    {
+        "#format" "{1:s}"
+        "en" "SteamID: {green}{1}"
+        "pt" "SteamID: {green}{1}"
+    }
+
+    "join_ip" 
+    {
+        "#format" "{1:s}"
+        "en" "IP: {green}{1}"
+        "pt" "IP: {green}{1}"
+    }
+
+    "join_country" 
+    {
+        "#format" "{1:s}"
+        "en" "Country: {green}{1}"
+        "pt" "País: {green}{1}"
+    }
+
+    "disconnect" 
+    {
+        "#format" "{1:N}{2:s}{3:s}{4:s}"
+        "en" "Player {green}{1} {default}<{lightgreen}{2}{default}> disconnected ({3}) from {green}{4}."
+        "pt" "Jogador {green}{1} {default}<{lightgreen}{2}{default}> se desconectou ({3}), país {green}{4}."
+    }
+
+    "unknown" 
+    {
+        "en" "Unknown"
+        "pt" "Desconhecido"
+    }
+}
